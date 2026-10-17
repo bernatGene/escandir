@@ -1,0 +1,103 @@
+# One line per case, aimed at the branches of hyphen-softcatala.js.
+# Lines starting with "# " are skipped; empty lines are skipped.
+# erra muda / erra sensible
+Vull estimar i viure
+el seu amor és gran
+la mar i el cel
+Fer i desfer a l'atzar
+Cantar a la vora del mar
+# falling diphthong blocks sinalefa
+la meva veu en el vent
+vaig dir que hi era
+cantau i ballau
+el buit i el silenci
+qui ama no oblida
+el remei és la mort
+# next word starting with h?[iu] + vowel blocks sinalefa
+la hiena riu
+molta iaia
+i ara i adés
+entre ella i ell
+cada o una
+tota i ara
+la hora i el temps
+el meu home
+# -ho / -hi enclitics
+porta-ho a casa
+dona-hi aigua
+mira-ho bé
+fes-ho ara
+que no ho sap ningú, porta-ho
+vull que me la tornis, dona-hi
+digues-m'ho
+dóna-me'l
+porta-te-la
+anem-nos-en
+vés-te'n
+l'home que estima'ls
+Porta-li-ho
+PORTA-HO
+# stress of the last word
+la música
+fins al límit
+és fàcil
+una cançó
+les noies canten
+els joves
+el seu amor
+Pius
+pius
+àcid periòdic
+el període
+un remei
+el comiat
+# apostrophes
+'Mor la tarda
+diu: 'ja vinc'
+l’ànima d’aquí
+a ' b
+l'aigua
+s'hi
+# ela geminada
+col·legi
+il·lusió
+coŀlegi
+IL·LUSIÓ
+la il·lusió i el desig
+# case, punctuation, digits, symbols
+ÀNIMA I COS
+Ell
+HOME
+«Atura't», va dir—i se n'anà.
+¿Què vols?
+1714 i ara
+el cor ❤️ i l'ànima
+   la mar  
+	tabulada	línia
+...
+—
+ - 
+nord-americà
+la_mar
+_cursiva_ i res
+a
+i
+o
+   
+# digraphs, diaeresis
+aigua
+qüestió
+pingüí
+qui
+guerra
+aguant
+pair
+trair
+veïna
+raïm
+lingüística
+Shakespeare
+rock and roll
+# old orthography
+Y al veure que traus sempre rocam de ses entranyes
+Quan á la falda't miro de Montjuich seguda,
