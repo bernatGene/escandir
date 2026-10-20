@@ -18,3 +18,7 @@ A Lua port of the [Softcatalà syllable separator](https://www.softcatala.org/si
 - [jaumeortola/hyphen-ca](https://github.com/jaumeortola/hyphen-ca) — Catalan hyphenation patterns (GPL-3.0)
 
 Original sources are kept in `reference/`.
+
+## License
+
+GPL-3.0, following the hyphen-ca patterns it includes.
